@@ -17,4 +17,15 @@ First embedded system C-based program that utilizes FPGA technology integrated w
 - Ramp up technical knowledge of GO Lang for proof of concept.
 <hr>
 
-* [Main Clock Flowchart Diagram](https://github.com/JSande2021/Wakeup9000/MainClockFlowchart.png)
+* [Main Clock Flowchart Diagram](https://github.com/JSande2021/Wakeup9000/blob/main/MainClockFlowchart.png)
+
+
+* [Alarm Configuration Flowchart Diagram](https://github.com/JSande2021/Wakeup9000/blob/main/alarmconfigflowchart.png)
+
+
+* [Main Clock Configuration Flowchart Diagram](https://github.com/JSande2021/Wakeup9000/blob/main/checkconfigflowchart.png)
+
+
+* [Alarm Status Flowchart Diagram](https://github.com/JSande2021/Wakeup9000/blob/main/checkalarmstatusflowchart.png)
+
+* [Clock Status Flowchart Diagram](https://github.com/JSande2021/Wakeup9000/blob/main/ClockStatusFlowchart.png)
