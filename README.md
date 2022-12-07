@@ -1,4 +1,10 @@
-**Joeseph Sande's - Software Engineer Biography**
+**Joeseph Sande's - Software Engineer Resume**
+
+* [Joeseph Sande's Resume](https://github.com/JSande2021/Wakeup9000/blob/main/JoesephSandeSoftwareEngineerResume.pdf)
+
+<hr>
+
+**Biography**
 
 * [Biography](https://github.com/JSande2021/StartHere/blob/main/README.md)
 
