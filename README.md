@@ -17,7 +17,7 @@ First embedded system C-based program that utilizes FPGA technology integrated w
 - Ramp up technical knowledge of GO Lang for proof of concept.
 <hr>
 
-* [https://github.com/JSande2021/Wakeup9000/blob/main/FGPABoard.png](https://github.com/JSande2021/Wakeup9000/blob/main/FGPABoard.png)
+![FPGA Board](FPGABoard.png)
 
 * [Project Proposal](https://github.com/JSande2021/Wakeup9000/blob/main/ProjectProposal.pdf)
 
