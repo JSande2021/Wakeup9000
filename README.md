@@ -22,6 +22,9 @@ First embedded system C-based program that utilizes FPGA technology integrated w
 
 <hr>
 
+**Final Release**
+[Final Release Phase](https://www.loom.com/share/a7e54c53bf8d4545b72b07a3edc1d437)
+
 **Testing Phase**
 [Testing Phase Release](https://www.loom.com/share/f5a857eae48d49fdb999e18a4e3816b4)
 
